@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Abul33764 
-abul-kalam-coder
-/
-Voice-Selfie-Web-app
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Voice-Selfie-Web-app/main.js /
-@abul-kalam-coder
-abul-kalam-coder Add files via upload
-Latest commit 5b629f9 on Jun 29, 2021
- History
- 1 contributor
-55 lines (42 sloc)  1.19 KB
-   
 var voicerecogniton = window.webkitSpeechRecognition;
 var recognition = new voicerecogniton() ;
 
@@ -81,16 +53,3 @@ link.href = image;
 link.click();
 
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
